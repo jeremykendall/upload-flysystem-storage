@@ -8,7 +8,6 @@ This project adds Flysytem storage to the excellent
 ``` php
 <?php
 
-
 use JeremyKendall\Upload\Storage\Flysystem;
 use Upload\File;
 
